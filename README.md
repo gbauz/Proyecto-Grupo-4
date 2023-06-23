@@ -1,7 +1,3 @@
-# Proyecto de Construcción de Software - <em> Gestión de Arbitros de Fútbol</em>
-
-## Descripcion
-El proyecto consiste en agilizar el proceso de selecion de arbitros en un partido de Futbol
 
 ## Requisitos de desarrollo
 -   Java JDK 17 o superior
