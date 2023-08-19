@@ -11,7 +11,7 @@ public class Login extends javax.swing.JFrame {
 
         this.setResizable(false);
         this.setLocationRelativeTo(null);
-        this.setTitle("Login - SISTEMA DE Facturación");
+        this.setTitle("Login");
         this.setSize(new Dimension(718, 410));
     }
 
